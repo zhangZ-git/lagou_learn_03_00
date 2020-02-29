@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90845427-defa-4d54-9145-da464b722677" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\develop\repository" />
+        <option name="mavenHome" value="C:/Program Files/soft_idea/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Program Files\soft_idea\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YDG2E968kYPupoH5jso1B1HeKi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.lagou.test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Zz_lagou_learn\Ipersistence\src\main\java\com\lagou" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.lagou.config" />
+      <recent name="com.lagou.sqlSession" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="IPersistenceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ipersistence_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lagou.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.IPersistenceTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IPersistenceTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90845427-defa-4d54-9145-da464b722677" name="Default Changelist" comment="" />
+      <created>1582469541449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582469541449</updated>
+      <workItem from="1582469544209" duration="25303000" />
+      <workItem from="1582635445851" duration="26425000" />
+      <workItem from="1582736258951" duration="8154000" />
+      <workItem from="1582777212615" duration="175000" />
+      <workItem from="1582777844747" duration="22000" />
+      <workItem from="1582781098079" duration="17525000" />
+      <workItem from="1582897348773" duration="40583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="180" key="#Project_Structure" timestamp="1582728847491">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="180" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1582728847491" />
+    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582653863308">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582653863308" />
+    <state x="0" y="424" key="#com.intellij.ide.util.MemberChooser" timestamp="1582968255414">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="424" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582968255414" />
+    <state x="724" y="385" width="471" height="275" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582556589683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="724" y="385" width="471" height="275" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1582556589683" />
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582566357311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582566357311" />
+    <state x="715" y="226" key="#xdebugger.evaluate" timestamp="1582906129420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="226" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1582906129420" />
+    <state width="810" height="466" key="DebuggerActiveHint" timestamp="1582943103420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="810" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1582943103420" />
+    <state x="861" y="313" key="FileChooserDialogImpl" timestamp="1582553995858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="861" y="313" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582553995858" />
+    <state width="1876" height="459" key="GridCell.Tab.0.bottom" timestamp="1582997234238">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="459" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582997234238" />
+    <state width="1876" height="459" key="GridCell.Tab.0.center" timestamp="1582997234238">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="459" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582997234238" />
+    <state width="1876" height="459" key="GridCell.Tab.0.left" timestamp="1582997234237">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="459" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582997234237" />
+    <state width="1876" height="459" key="GridCell.Tab.0.right" timestamp="1582997234238">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="459" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582997234238" />
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1582992211116">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582992211116" />
+    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1582992211116">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582992211116" />
+    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1582992211116">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582992211116" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1582992211116">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582992211116" />
+    <state x="490" y="177" key="Maven.ArtifactSearchDialog" timestamp="1582653389731">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="177" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582653389731" />
+    <state x="584" y="187" key="SettingsEditor" timestamp="1582738498123">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="584" y="187" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582738498123" />
+    <state x="759" y="299" key="chooseDestDirectoryDialog" timestamp="1582653297467">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="299" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582653297467" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582905768178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582905768178" />
+    <state x="51" y="118" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582970454175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="51" y="118" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582970454175" />
+    <state x="652" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1582897350579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582897350579" />
+    <state x="731" y="237" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582653597608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="237" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582653597608" />
+    <state x="826" y="142" width="759" height="735" key="find.popup" timestamp="1582941210915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="826" y="142" width="759" height="735" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582941210915" />
+    <state x="604" y="356" key="new project wizard" timestamp="1582474306406">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="604" y="356" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1582474306406" />
+    <state x="702" y="142" key="refactoring.ChangeSignatureDialog" timestamp="1582970221407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="142" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582970221407" />
+    <state x="620" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1582968446051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="620" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582968446051" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="configuration" />
+        <watch expression="mapperClass" />
+        <watch expression="proxyInstance" />
+        <watch expression="ParameterizedType" />
+        <watch expression="genericReturnType instanceof ParameterizedType" language="JAVA" />
+        <watch expression="metaData.getColumnCount()" language="JAVA" />
+        <watch expression="sqlType" />
+        <watch expression="rootElement.getName()" language="JAVA" />
+        <watch expression="element.getName()" language="JAVA" />
+        <watch expression="userDao" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Ipersistence_test$IPersistenceTest_test.ic" NAME="IPersistenceTest.test Coverage Results" MODIFIED="1582957621000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.lagou.test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
